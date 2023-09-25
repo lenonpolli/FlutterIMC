@@ -1,3 +1,16 @@
-# Projeto de uma calculadora de IMC em Dart com o frameworkd Flutter.
+# calculadora
 
-![calculadoraIMC](https://github.com/lenonpolli/FlutterIMC/assets/107897289/8c4a4bd9-e1a2-48c0-ba7a-58702d597305)
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
